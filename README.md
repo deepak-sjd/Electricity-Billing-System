@@ -20,12 +20,6 @@ This is a desktop-based Electricity Billing Management System built using Java S
 
 ---
 
-### 🖥️ Customer Signup Page  
-> Customer registration or post-login landing page.  
-![Customer User Page](screenshots/userPage1.png)
-
----
-
 ### 🛠️ Admin Dashboard / Menu  
 > Admin dashboard after login – allows navigation to various admin functionalities.  
 ![Admin Menu](screenshots/adminMenu.png)
